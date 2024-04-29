@@ -6,7 +6,7 @@ I'm a passionate Data Scientist and Machine Learning enthusiast with a keen inte
 
 🌱 **Interests**: My primary interests lie in research in artificial intelligence, machine learning, and data science. I'm constantly learning and exploring new techniques and methodologies in these fields to stay updated with the latest advancements.
 
-💻 **Skills**: Proficient in Python, and R. I have experience working with various machine learning libraries and frameworks such as TensorFlow, PyTorch, and scikit-learn. I also have knowledge of bioinformatics tools and databases.
+💻 **Skills**: Proficient in Python Programming Language. I have experience working with various machine learning libraries and frameworks such as TensorFlow, PyTorch, and scikit-learn. I also have knowledge of bioinformatics tools and databases.
 
 📫 **Contact**: Feel free to reach out to me via email at [peterkayode618@gmail.com](mailto:peterkayode618@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/peterkayode).
 
