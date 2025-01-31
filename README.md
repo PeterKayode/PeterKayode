@@ -1,6 +1,6 @@
 # Hi there, I'm Peter Kayode! 👋
 
-I'm a passionate Data Scientist and Machine Learning enthusiast with a keen interest in Deep Learning and Natural Language Processing (NLP). Additionally, I have a strong fascination for Researches. My greatest strength still remains my ability to quickly and efficiently learn new tools as I need them.
+I'm a passionate Data Scientist and Machine Learning enthusiast with a keen interest in Deep Learning and Natural Language Processing (NLP). Additionally, I have a strong fascination for Research. My greatest strength still remains my ability to quickly and efficiently learn new tools as I need them.
 
 🔭 **Projects**: You'll find a variety of projects in my repositories, ranging from data science and machine learning applications to intermediate web development projects. These projects showcase my skills and interests in these domains.
 
